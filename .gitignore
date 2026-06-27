@@ -2,3 +2,8 @@
 Thumbs.db
 *.env
 .env.*
+.mcpregistry_*
+tools/
+_cursor*.html
+c_*.js
+_listing.html
