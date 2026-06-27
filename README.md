@@ -95,6 +95,15 @@ See [examples/windsurf-mcp.json](examples/windsurf-mcp.json).
 
 Full REST/MCP docs: [bugiadata.com/docs](https://bugiadata.com/docs)
 
+## Directory listings
+
+| Directory | URL |
+|-----------|-----|
+| **cursor.store** | https://www.cursor.store/mcp/lgpoliveira/bugiadata-mcp |
+| **MCP Registry** | https://registry.modelcontextprotocol.io/v0/servers?search=bugiadata (`io.github.lgpoliveira/bugiadata-mcp` v1.0.0) |
+
+To enrich the cursor.store page (custom copy, install snippet, category), sign in with GitHub and claim the repo — paste-ready fields are in [`docs/CURSOR_STORE_LISTING.md`](docs/CURSOR_STORE_LISTING.md).
+
 ## MCP Registry
 
 This repo includes [`server.json`](server.json) for the [official MCP Registry](https://modelcontextprotocol.io/registry). Publishing is optional; see issue tracker on the private product repo.
